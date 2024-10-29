@@ -14,5 +14,6 @@ VALUES  (2, "Squidward", "Tentacles", 15.00, "2023-01-03"),
 SELECT * FROM employees;
 
 
+
 INSERT INTO employees (employeee_id, first_name, last_name)
 VALUES (6, "Sheldon", "Plankton");
